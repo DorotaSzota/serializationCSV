@@ -1,0 +1,7 @@
+﻿Exercise 1: CSV Serialization
+1. Create a class named "Person" with the following properties: "Name" (string), "Age" (int), and "Email" (string).
+2. Instantiate a few objects of the "Person" class and populate them with some sample data.
+3. Implement a method to serialize the objects into a CSV file. The CSV file should have headers for each property (e.g., "Name", "Age", "Email")
+and each object should be represented as a row in the file.
+4. Test your serialization method by calling it with the objects you created and verify that the CSV file is generated correctly.
+
